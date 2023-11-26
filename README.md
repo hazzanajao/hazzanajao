@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Java Fullstack Web Developer (FSD)</h1>
-<p align="center">I am more proficient in Backend RESTFul API development, I have developed many backend applications with Java and Javascript Frameworks. Precisely, Spring Boot and Express.Js . However, I have good experience in developing Users' Interface Applications with React.js and Angular Frameworks.</p
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazzanajao&label=Profile%20views&color=0e75b6&style=flat" alt="hazzanajao" /> </p>
+<h1 align="center" >Hi 👋, I'm Java Fullstack Web Developer (FSD)</h1>
+<p align="center">I am more proficient in Backend RESTFul API development, I have developed many backend applications with Java and Javascript Frameworks. Precisely, Spring Boot and Express.Js . However, I have good experience in developing Users' Interface Applications with React.js and Angular Frameworks.</p
 
 - 🔭 I’m frequently working on this [E-commerce Application](https://netlify-thinks-ajao-hazzan-is-great-7a2ad.netlify.app/)
 
@@ -10,6 +9,7 @@
 - 💬 Ask me about **React , Angular and Spring Boot**
 
 - 📫 How to reach me **hazzanaj@gmail.com**
+
 
 <h6 align="center"><em > Ongoing React Web Project :  </em> 🌐 https://hajaoreactwebpage.netlify.app/ </h6>
 
