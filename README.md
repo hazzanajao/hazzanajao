@@ -6,15 +6,15 @@ On the hardware side, I design and simulate analog and digital circuits, develop
 
 I’m passionate about mentoring, research-driven innovation, and solving global challenges through inclusive technology. Feel free to explore my repositories below to see examples of:
 
- Secure full-stack web apps with role-based access
+ - Secure full-stack web apps with role-based access
 
- RESTful APIs with Express.js and Spring Boot
+ - RESTful APIs with Express.js and Spring Boot
 
- Responsive React dashboards and Angular admin panels
+ - Responsive React dashboards and Angular admin panels
 
- IoT hardware designs and PCB layouts for smart systems
+ - IoT hardware designs and PCB layouts for smart systems
 
- Embedded firmware for microcontrollers and edge devices
+ - Embedded firmware for microcontrollers and edge devices
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazzanajao&label=Profile%20views&color=0e75b6&style=flat" alt="hazzanajao" /> </p>
 
